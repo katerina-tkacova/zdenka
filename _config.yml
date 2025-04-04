@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://katerina-tkacova.github.io/photorama/gallery/"  
-  - JOURNAL: "https://katerina-tkacova.github.io/photorama/journal/"
-  - ABOUT: "https://katerina-tkacova.github.io/photorama/about/"
+  - GALLERY: "https://katerina-tkacova/photorama/gallery/"  
+  - JOURNAL: "https://katerina-tkacova/photorama/journal/"
+  - ABOUT: "https://katerina-tkacova/photorama/about/"
 
 # All translation keys
 translations:
