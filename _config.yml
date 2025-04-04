@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://katerina-tkacova.github.io/zdenka/gallery/"  
+  - Galerie výrobků: "https://katerina-tkacova.github.io/zdenka/gallery/"  
 #  - JOURNAL: "https://katerina-tkacova.github.io/zdenka/journal/"
-  - ABOUT: "https://katerina-tkacova.github.io/zdenka/about/"
+#  - ABOUT: "https://katerina-tkacova.github.io/zdenka/about/"
 
 # All translation keys
 translations:
